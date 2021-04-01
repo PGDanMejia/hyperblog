@@ -1,0 +1,3 @@
+Esto es un archivo de texto
+
+Para realizar una prueba en git
